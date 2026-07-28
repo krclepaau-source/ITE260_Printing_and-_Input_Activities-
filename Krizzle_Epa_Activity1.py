@@ -1,0 +1,7 @@
+print ("==== STUDEND INFORMATION ====")
+print ("Name: Krizzle C. Epa")
+print ("Age: 17")
+print ("Course: BSIT")
+print ("Section: BSIT1-S9")
+print ("Address: Purok 3, brgy. Ibona Dingalan Aurora")
+print ("Favorite Hobby: Watching reels")

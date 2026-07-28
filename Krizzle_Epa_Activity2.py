@@ -1,0 +1,7 @@
+print = input ("==== USER PROFILE ====")
+name = input ("Name: Krizzle C. Epa")
+age = input ("Age: 17 ")
+course = input ("Course: BSIT ")
+section = input ("Section: BSIT1-S9 ")
+address = input ("Address: Purok 3, brgy. Ibona Dingalan Aurora")
+favorite_food = input ("Favorite_food: Sisig ")
